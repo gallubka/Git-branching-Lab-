@@ -4,3 +4,4 @@ def mult_num(num):
 
     return (num * 100)
 
+print(mult_num(5))
