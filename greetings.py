@@ -9,7 +9,7 @@ def get_friendly_greeting(name):
 
 def get_grumpy_greeting(name):
 	"""Provide a greeting that is grumpy, given a name."""
-#test 123
+
 	return "Ugh, hey {}".format(name)
 
 
